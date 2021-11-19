@@ -28,4 +28,17 @@ Check out the website hosted on DigitalOcean: [WenboChatter](http://159.203.25.2
     - Private chat messages
 
 ## Demo:
-![Alt][1](C:\Users\15146\Desktop\real-timeChatterDjango\demo_image\overall.jpeg)
+**Accept/decline friend requests**
+![Alt](https://github.com/zhangwbhi/django-chatter/blob/main/demo_image/accept_reject_friend_request.jpeg?raw=true)
+
+**Public chat room**
+![Alt](https://github.com/zhangwbhi/django-chatter/blob/main/demo_image/public_chat.jpeg?raw=true)
+
+**Private chat room**
+![Alt](https://github.com/zhangwbhi/django-chatter/blob/main/demo_image/private_chat.jpeg?raw=true)
+
+**Crop profile immage**
+![Alt](https://github.com/zhangwbhi/django-chatter/blob/main/demo_image/overall.jpeg?raw=true)
+
+**Real-time chat notification**
+![Alt](https://github.com/zhangwbhi/django-chatter/blob/main/demo_image/real_time_chat_notification?raw=true)
