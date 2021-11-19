@@ -41,4 +41,4 @@ Check out the website hosted on DigitalOcean: [WenboChatter](http://159.203.25.2
 ![Alt](https://github.com/zhangwbhi/django-chatter/blob/main/demo_image/overall.jpeg?raw=true)
 
 **Real-time chat notification**
-![Alt](https://github.com/zhangwbhi/django-chatter/blob/main/demo_image/real_time_chat_notification?raw=true)
+![Alt](https://github.com/zhangwbhi/django-chatter/blob/main/demo_image/real_time_chat_notification.jpeg?raw=true)
