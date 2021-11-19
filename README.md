@@ -27,3 +27,5 @@ Check out the website hosted on DigitalOcean: [WenboChatter](http://159.203.25.2
     - Friend requests (Can accept / decline from the notification)
     - Private chat messages
 
+## Demo:
+![Alt][1](C:\Users\15146\Desktop\real-timeChatterDjango\demo_image\overall.jpeg)
